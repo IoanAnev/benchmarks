@@ -1,3 +1,6 @@
 [submodule "native"]
 	path = native
 	url = git@github.com:IoanAnev/argodsm-native-benchmarks.git
+[submodule "ompss"]
+	path = ompss
+	url = git@github.com:IoanAnev/argodsm-ompss-benchmarks.git
