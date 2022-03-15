@@ -1,6 +1,6 @@
 [submodule "argodsm"]
 	path = argodsm
-	url = git@github.com:IoanAnev/argodsm-benchmarks.git
+	url = git@github.com:ioanev/argodsm-benchmarks.git
 [submodule "ompss-2"]
 	path = ompss-2
-	url = git@github.com:IoanAnev/ompss-2-benchmarks.git
+	url = git@github.com:ioanev/ompss-2-benchmarks.git
